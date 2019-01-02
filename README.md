@@ -1,6 +1,6 @@
 # Getting started sample for Xamarin.Forms DataForm
 
-This is demo application of Xamarin.Forms SfDataForm control. The minimal set of required properties have been configured in this project to get started with SfDataForm in Xamarin.Forms.
+This example demonstrates to get started with SfDataForm control in Xamarin.Forms with simple contact form application.
 
 For more details please refer the Xamarin.Forms SfDataForm UG documentation [Getting Started](https://help.syncfusion.com/xamarin/sfdataform/getting-started) link.
 
