@@ -10,5 +10,4 @@
     <ContentPage.Content>
         <dataForm:SfDataForm x:Name="dataForm" DataObject="{Binding ContactsInfo}"/>
     </ContentPage.Content>
-
 </ContentPage>
